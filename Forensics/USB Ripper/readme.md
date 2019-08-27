@@ -1,4 +1,4 @@
-# USB Ripper Write up
+# USB Ripper Write-up
 ## [+] Challenge Information:
 - Hackthebox challenge link: https://www.hackthebox.eu/home/challenges/download/81 <br>
 - zip password: "hackthebox" without "qoutation"
