@@ -16,7 +16,9 @@
 ![syslog screenshot](https://github.com/BassamMaged/HackTheBox/blob/master/Forensics/USB%20Ripper/pics/syslog.PNG)
     <br>
     <br>
+    
 ```we need to analysis this massive information! so we decided to create scripts to anlysis the syslog and auth.log```
+
    <br>
    <br>
 3. firstly, we created two script to extract serial number and manufacturer number for each device on sepreate sheet.
@@ -56,4 +58,5 @@
 
 <br>
 <br>
+
 ```Thank you for reading my write up, Schemer - Black Toppers Team```
