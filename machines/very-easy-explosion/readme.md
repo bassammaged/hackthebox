@@ -1,4 +1,4 @@
-# Dancing Walkthrough
+# Explosion Walkthrough
 ## Basic instruction to start the lab
 
 ###### Establish VPN connection
