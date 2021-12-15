@@ -46,7 +46,6 @@ patator rdp_login host=10.129.145.72  0=~/Desktop/sec-lists/misc/SecLists-master
 
 ###### Weakness!
 * Weak credentials.
-* Missing rate-limit. 
 
 <p align="center" text> Good Luck </p>
 <p align="center" text> Kemet </p>
