@@ -1,0 +1,4 @@
+# Nmap 7.91 scan initiated Wed Dec 15 07:07:28 2021 as: nmap -sS -oA 01-nmap-scan-port-default.result 10.129.150.144
+Host: 10.129.150.144 ()	Status: Up
+Host: 10.129.150.144 ()	Ports: 80/open/tcp//http///	Ignored State: closed (999)
+# Nmap done at Wed Dec 15 07:07:32 2021 -- 1 IP address (1 host up) scanned in 3.51 seconds
