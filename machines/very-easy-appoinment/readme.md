@@ -26,9 +26,9 @@ nmap -sS <host_ip> -sV
 After the scan for most popular ports, HTTP port was opened.
 
 * Break the system
-# Browse the application
-# Use Gobuster to discover more end-points.
-# During Gobuster working, You can see the login page its vulnerable to SQLi, SQL command can be broken by `'#`
+- Browse the application
+- Use Gobuster to discover more end-points.
+- During Gobuster working, You can see the login page its vulnerable to SQLi, SQL command can be broken by `'#`
 
 
 ###### Weakness!
