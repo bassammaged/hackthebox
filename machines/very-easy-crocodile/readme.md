@@ -22,18 +22,18 @@ nmap one of the most popular tool to scan the hosts and perform banner grabbing.
 nmap -sS <host_ip> -sV
 ```
 
-###### Trying to explore HTTP
-After the scan for most popular ports, HTTP port was opened.
+###### Trying to explore FTP and HTTP
+After the scan for most popular ports, HTTP & FTP port was opened.
 
 * Break the system
-# Browse the application
-# Use Gobuster to discover more end-points.
-# During Gobuster working, You can see the login page its vulnerable to SQLi, SQL command can be broken by `'#`
+# FTP was vulnerable to FTP anonymous credentials
+# After surfing the files on FTP, there were credentials files.
+# You can use the credentials file to login into web application.
 
 
 ###### Weakness!
-* Missing monitoring for high rate requests. 
-* SQL injection.
+* FTP anonymous login.
+* Insecure storage 
 
 <p align="center" text> Good Luck </p>
 <p align="center" text> Kemet </p>
